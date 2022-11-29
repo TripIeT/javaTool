@@ -1,14 +1,15 @@
-package javaTool.lib.util;
+package javaTool.lib.UI;
 
 import java.util.*;
 
 import javaTool.lib.terminal.ColorTerminal;
 import javaTool.lib.terminal.ColorTerminal.COLOR;
+import javaTool.lib.util.MyObj;
 
 /**
-    *
-    *
-    */
+*
+*
+*/
 public class MyList {
 
     public static ArrayList<?> listToSet(ArrayList<?> list) {
